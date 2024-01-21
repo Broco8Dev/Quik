@@ -2,7 +2,7 @@
   <img align="right" height="140" src="https://github.com/Broco8Dev/SwiftUI-Windows/blob/main/SwiftUIForWindowsLogo.png?raw=true" alt="Logo" style="float: right; border-radius: 10px;"/>
 </p>
 
-<h1 align="left">SwiftUI-Windows - Port of Apple's SwiftUI For Windows</h1>
+<h1 align="left">SwiftUI-Windows - Code in Apple's SwiftUI On Windows</h1>
 
 <p align="left">
   <strong><a href="https://github.com/Broco8Dev/SwiftUI-Windows/releases/latest">Download</a></strong>
