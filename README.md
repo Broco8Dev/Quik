@@ -19,5 +19,5 @@ SwiftUI-Windows is a Port of Apple's SwiftUI Programming Language. This port is 
 ## Getting Started
 
 1. **Compatibility:** Ensure You Have a Windows Device on Windows 10+ or a macOS Device on macOS 11+.
-2. **Installation:** Download PureKFD from the [github releases](https://github.com/Broco8Real/SwiftUI-Windows/releases/latest) for the latest release or [our discord](https://discord.gg/nocturna) for the latest betas.
+2. **Installation:** Download SwiftUI-Windows from the [Github Releases](https://github.com/Broco8Real/SwiftUI-Windows/releases/latest) for the latest release or [Our Discord](https://discord.gg/nocturna) for the latest betas.
 3. **Code:** Open The IDE and Code Away! Further Tutorials are Included In The App.
