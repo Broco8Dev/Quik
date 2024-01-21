@@ -1,5 +1,5 @@
 <p align="right">
-  <img align="right" height="140" src="https://github.com/PureKFD/PureKFD/blob/main/SwiftUIForWindowsIcon.png?raw=true" alt="Logo" style="float: right; border-radius: 10px;"/>
+  <img align="right" height="140" src="https://github.com/PureKFD/PureKFD/blob/main/SwiftUIForWindowsLogo.png?raw=true" alt="Logo" style="float: right; border-radius: 10px;"/>
 </p>
 
 <h1 align="left">SwiftUI-Windows - Port of Apple's SwiftUI For Windows</h1>
@@ -7,9 +7,9 @@
 <p align="left">
   <strong><a href="https://github.com/Broco8Dev/SwiftUI-Windows/releases/latest">Download</a></strong>
   •
-  <strong><a href="https://discord.gg/Mve4nWJMrz">Discord</a></strong>
+  <strong><a href="https://discord.gg/nocturna">Discord</a></strong>
   •
-  <strong><a href="https://twitter.com/Lrdsnow101">Twitter</a></strong>
+  <strong><a href="https://twitter.com/Broco8Real">Twitter</a></strong>
 </p>
 
 ## Overview
