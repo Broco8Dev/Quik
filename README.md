@@ -1,5 +1,5 @@
 <p align="right">
-  <img align="right" height="140" src="https://github.com/Broco8Dev/Quik/blob/main/quiklogo.png?raw=true" alt="Logo" style="float: right; border-radius: 10px;"/>
+  <img align="right" height="140" src="https://github.com/Broco8Dev/Quik/blob/main/quiklogo.png?raw=true" alt="Logo" style="float: right; border-radius: 100px;"/>
 </p>
 
 <h1 align="left">Quik - A Swift/SwiftUI-Like Programming Language</h1>
